@@ -6,4 +6,4 @@ Unless otherwise specified, all numbers listed are little endian and all integer
 
 # Table of Contents
 ## SSPM
-- (SSPM v1)[sspm/v1.md]
+- [SSPM v1](sspm/v1.md)
